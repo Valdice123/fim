@@ -1,0 +1,25 @@
+Kolik userů dokáže hacker bruteforcenout?
+
+
+Bruteforce
+	šance na uhodnutí hesla
+		úroveň zabezpečení serveru
+			- firewall
+			- třikrát a dost
+			- delay serveru
+			- zpomalení serveru?
+		predátor - hacker
+			- zkušenost hackera
+			- kolikačlenná skupina (kolik zombies)
+			- šance že ho najdou a čím déle to dělá tím větší šanci má na zajetí
+		kořist - všichni
+			- nový uživatel rate
+			- kolika lidem dokáže uhodnout heslo
+			- složistost hesla
+			- dvoufaktorové ověřování?
+
+
+počet účtů které zbývá
+kolik zombies
+průměrná složitost
+variace složitosti
