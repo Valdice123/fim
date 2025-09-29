@@ -20,6 +20,9 @@ Bruteforce
 
 
 počet účtů které zbývá
-kolik zombies
+kolik zombies?
 průměrná složitost
 variace složitosti
+
+úroveň zabezpečení účtu (kolik uživatelů má třífázové zabezpečení)
+kolika útokům dokáže firewall zamezit během útoku --- nechceme udělat i útok jako proměnou s kterou se bude počitat?
