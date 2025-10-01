@@ -24,5 +24,13 @@ kolik zombies?
 průměrná složitost
 variace složitosti
 
-úroveň zabezpečení účtu (kolik uživatelů má třífázové zabezpečení)
+úroveň zabezpečení účtu (kolik uživatelů má dvoufázové zabezpečení)
 kolika útokům dokáže firewall zamezit během útoku --- nechceme udělat i útok jako proměnou s kterou se bude počitat?
+
+proměnné:
+	- délka znaků
+	- počet všech charů (26-52 písmen, 10 čísel, 32 speciálních znaků)
+	- kolik lidí má dvoufázové ověření (48% má.. zdroj: https://www.ucitel21.cz/post/ka%C5%BEd%C3%BD-druh%C3%BD-u%C5%BEivatel-soci%C3%A1ln%C3%ADch-s%C3%ADt%C3%AD-v-%C4%8Desku-se-nezaj%C3%ADm%C3%A1-o-zabezpe%C4%8Den%C3%AD-sv%C3%A9ho-%C3%BA%C4%8Dtu-uk%C3%A1zal-v%C3%BDzkum)
+	- 
+
+ + čím víc je hacknutých účtů tím víc lidí má dvoufázové ověřování
